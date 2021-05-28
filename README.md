@@ -6,4 +6,9 @@ Hi there, I'm Kevin 👋
 - :computer: Apple enthusiast
 - ⚽: football pationate
 
+## Project :
+
+- [Mood&Focus](https://github.com/kev0629/Mood-Focus)
+- [Alpha-Random](https://github.com/kev0629/Alpha_Random)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
