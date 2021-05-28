@@ -6,7 +6,7 @@ Hi there, I'm Kevin 👋
 - :computer: Apple enthusiast
 - ⚽: football pationate
 
-## Project :
+## Projects :
 
 - [Mood&Focus](https://github.com/kev0629/Mood-Focus)
 - [Alpha-Random](https://github.com/kev0629/Alpha_Random)
