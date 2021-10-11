@@ -4,7 +4,6 @@
 ---
 
 - :briefcase: Software and Hardware Engineer
-- 📫 How to reach me: @kevin_saffioti
 - :computer: Apple enthusiast
 - ⚽: football pationate
 
