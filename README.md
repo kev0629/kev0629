@@ -2,8 +2,9 @@
 
 ![Cover](https://github.com/kev0629/kev0629/blob/master/sticker.png)
 ---
-Hi there, I'm Kevin 👋
+
 - :briefcase: Software and Hardware Engineer
+- 📫 How to reach me: @kevin_saffioti
 - :computer: Apple enthusiast
 - ⚽: football pationate
 
