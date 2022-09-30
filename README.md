@@ -9,9 +9,9 @@
 
 ## Projects :
 
+- [Coralie Andrietti Ergo](https://github.com/kev0629/coralie-andrietti-ergo)
 - [Mood&Focus](https://github.com/kev0629/Mood-Focus)
 - [Alpha-Random](https://github.com/kev0629/Alpha_Random)
-- [Coralie Andrietti Ergo](https://github.com/kev0629/coralie-andrietti-ergo)
 - [DS Azur Driver](https://github.com/kev0629/ds-azur-driver)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
