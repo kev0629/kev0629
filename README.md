@@ -13,4 +13,4 @@
 - [Alpha-Random](https://github.com/kev0629/Alpha_Random)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,git,github,html,js,react,next,c,c++,python,vscode,raspberrypi,arduino&theme=dark)]
+[![My Skills](https://skillicons.dev/icons?i=nodejs,git,github,githubactions,linux,html,js,react,nextjs,electron,c,cpp,swift,py,gcp,vscode,raspberrypi,figma,arduino&theme=dark)]
