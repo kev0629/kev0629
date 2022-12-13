@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi there! I'm Kevin Saffioti</h1>
 
-![Cover](https://github.com/kev0629/kev0629/blob/master/sticker.png)
----
+<!-- ![Cover](https://github.com/kev0629/kev0629/blob/master/sticker.png)
+--- -->
+<br/>
 
 - :briefcase: : Software and Hardware Engineer
 - :computer: : Apple enthusiast
 - ⚽: football pationate
-
 <h2 align="center">Skills</h2>
 
 ### Languages
