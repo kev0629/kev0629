@@ -22,11 +22,22 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs" />
   </a>
 </p>
 
 ### Software :
-![My Skills](https://skillicons.dev/icons?i=electron,tauri,c,cpp,swift,py)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=electron,tauri,py,swift,c,cpp" />
+  </a>
+</p>
+
 ### Tools :
-![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,jenkins,linux,figma,gcp,vscode,bash,raspberrypi,docker,arduino&theme=dark)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,linux,figma,gcp,vscode,bash,raspberrypi,docker,arduino" />
+  </a>
+</p>
