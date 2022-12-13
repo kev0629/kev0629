@@ -24,5 +24,3 @@
 ![My Skills](https://skillicons.dev/icons?i=electron,c,cpp,swift,py)
 ### Tools :
 ![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,linux,figma,gcp,vscode,bash,raspberrypi,docker,arduino&theme=dark)
-
-![My Skills](https://skillicons.dev/icons?i=nodejs,git,github,githubactions,linux,html,css,tailwind,figma,ts,js,react,nextjs,electron,vite,c,cpp,swift,py,gcp,vscode,bash,raspberrypi,docker,arduino&theme=dark)
