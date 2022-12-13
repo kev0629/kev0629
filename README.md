@@ -21,6 +21,6 @@
 ### Web :
 ![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,tailwind,ts,js,react,nextjs,vite,nodejs)
 ### Software :
-![My Skills](https://skillicons.dev/icons?i=electron,c,cpp,swift,py)
+![My Skills](https://skillicons.dev/icons?i=electron,tauri,c,cpp,swift,py)
 ### Tools :
-![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,linux,figma,gcp,vscode,bash,raspberrypi,docker,arduino&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,jenkins,linux,figma,gcp,vscode,bash,raspberrypi,docker,arduino&theme=dark)
