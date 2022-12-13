@@ -19,11 +19,13 @@
 
 ## Skills 
 ### Web :
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=nodejs,html,css,tailwind,ts,js,react,nextjs,vite,nodejs)" />
   </a>
 </p>
+
 ### Software :
 ![My Skills](https://skillicons.dev/icons?i=electron,tauri,c,cpp,swift,py)
 ### Tools :
