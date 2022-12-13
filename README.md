@@ -3,6 +3,10 @@
 <!-- ![Cover](https://github.com/kev0629/kev0629/blob/master/sticker.png)
 --- -->
 <br/>
+<p align="center">
+<img src=https://github.com/kev0629/kev0629/blob/master/memoji.png style="height: 200px; width:200px;">
+</p>
+
 
 - :briefcase: : Software and Hardware Engineer
 - :computer: : Apple enthusiast
