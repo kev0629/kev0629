@@ -19,20 +19,19 @@
 
 <h2 align="center">Skills</h2>
 
-### Web
+### Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,swift,c,cpp" />
   </a>
 </p>
 
-### Software
+### Framework
 
-test
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=electron,tauri,py,swift,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,next,electron,tauri" />
   </a>
 </p>
 
