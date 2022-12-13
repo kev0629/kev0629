@@ -1,13 +1,13 @@
-<h3 align="center">👋 Hi there! I'm Kevin Saffioti</h3>
+<h1 align="center">👋 Hi there! I'm Kevin Saffioti</h1>
 
 ![Cover](https://github.com/kev0629/kev0629/blob/master/sticker.png)
 ---
 
-- :briefcase: Software and Hardware Engineer
-- :computer: Apple enthusiast
+- :briefcase: : Software and Hardware Engineer
+- :computer: : Apple enthusiast
 - ⚽: football pationate
 
-## Projects :
+<h2 align="center">Projects</h2>
 
 - [Coralie Andrietti Ergo](https://github.com/kev0629/coralie-andrietti-ergo)
 - [Mood&Focus](https://github.com/kev0629/Mood-Focus)
@@ -17,8 +17,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
-## Skills 
-### Web :
+<h2 align="center">Skills</h2>
+
+### Web
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,15 +27,16 @@
   </a>
 </p>
 
-### Software :
+### Software
 
+test
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=electron,tauri,py,swift,c,cpp" />
   </a>
 </p>
 
-### Tools :
+### Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
