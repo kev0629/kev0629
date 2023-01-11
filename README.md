@@ -4,7 +4,7 @@
 --- -->
 <br/>
 <p align="center">
-<img src=https://github.com/kev0629/kev0629/blob/master/memoji.png style="height: 400px; width:400px;">
+<img src=https://github.com/kev0629/kev0629/blob/master/memoji.png style="height: 500px; width:500px;">
 </p>
 
 
