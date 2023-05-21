@@ -33,6 +33,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,stackoverflow,jenkins,linux,figma,gcp,vscode,bash,vercel,vite,raspberrypi,firebase,docker,arduino,linkedin,discord" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,stackoverflow,jenkins,linux,figma,gcp,vscode,bash,vercel,vite,firebase,docker" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,raspberrypi,arduino,linkedin,discord" />
   </a>
 </p>
