@@ -33,6 +33,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,linux,figma,gcp,vscode,bash,raspberrypi,firebase,docker,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,stackoverflow,jenkins,linux,figma,gcp,vscode,bash,vercel,raspberrypi,firebase,docker,arduino" />
   </a>
 </p>
