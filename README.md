@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,swift,c,cpp,rust" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,swift,c,cpp,rust,md" />
   </a>
 </p>
 
@@ -33,6 +33,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,stackoverflow,jenkins,linux,figma,gcp,vscode,bash,vercel,raspberrypi,firebase,docker,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,stackoverflow,jenkins,linux,figma,gcp,vscode,bash,vercel,vite,raspberrypi,firebase,docker,arduino,linkedin,discord" />
   </a>
 </p>
