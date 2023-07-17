@@ -38,6 +38,6 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,raspberrypi,arduino,linkedin,discord" />
+    <img src="https://skillicons.dev/icons?i=supabase,redux,postman,raspberrypi,arduino,linkedin,discord" />
   </a>
 </p>
