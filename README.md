@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,swift,c,cpp,rust,md" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,swift,c,cpp,rust,md" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,next,electron,tauri" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,next,electron,nodejs,tauri" />
   </a>
 </p>
 
