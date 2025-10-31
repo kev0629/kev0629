@@ -11,33 +11,19 @@
 - :briefcase: : Software and Hardware Engineer
 - :computer: : Apple enthusiast
 - ⚽: football pationate
-<h2 align="center">Skills</h2>
+- 
+<h2 align="center">💻 Skills & Technologies</h2>
 
-### Languages
+ <div align="center">
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,swift,c,cpp,rust,md" />
-  </a>
-</p>
+| Catégorie |  🚀 Technologies |
+|-----------|-------------|
+| **💬 Languages** | ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,swift,c,cpp,rust,md) |
+| **🖥️ Frontend** | ![Skills](https://skillicons.dev/icons?i=react,next,tailwind,electron) |
+| **⚡️ Backend** | ![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,tauri) |
+| **🔧 DevOps** | ![Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,gitlab,jenkins) |
+| **🌎 Cloud & BaaS** | ![Skills](https://skillicons.dev/icons?i=gcp,firebase,supabase,vercel,aws) |
+| **🛠️ Tools** | ![Skills](https://skillicons.dev/icons?i=vscode,figma,postman,vite,bash) |
+| **💻 Platforms** | ![Skills](https://skillicons.dev/icons?i=apple,linux,kali,raspberrypi,arduino) |
 
-### Framework
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,next,electron,nodejs,express,jest,tauri" />
-  </a>
-</p>
-
-### Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,stackoverflow,jenkins,linux,figma,gcp,vscode,bash,vercel,vite,firebase,docker" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,redux,postman,raspberrypi,arduino,linkedin,discord" />
-  </a>
-</p>
+</div>
